@@ -19,7 +19,7 @@
 
 2：编辑一个待办事项的具体内容： 点击想要编辑的任务的”编辑“按钮，然后在”任务描述“中添加具体描述，点击保存：
 
-![image]()
+![image](https://github.com/Hwhisper/TodoList/blob/master/%E7%BC%96%E8%BE%91%E4%B8%80%E4%B8%AA%E4%BA%8B%E9%A1%B9.gif)
 
 3：更改一个事项的状态（完成与否）：点击想要改变状态的任务的”编辑“按钮，然后在”是否完成“选项框里面打勾或取消勾，点击保存，更改状态后的事件显示列表改变：
 
@@ -27,4 +27,4 @@
 
 4：删除一个待办事项：点击想要删除的任务，之后改任务会在列表中消失：
 
-![image]()
+![image](https://github.com/Hwhisper/TodoList/blob/master/%E5%88%A0%E9%99%A4%E4%B8%80%E4%B8%AA%E4%BA%8B%E9%A1%B9.gif)
