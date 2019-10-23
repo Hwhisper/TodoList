@@ -74,4 +74,3 @@ export default class CustomModal extends Component {
 	  //通过onSave与父组件进行通信，将更新/添加后的activeItem传递给父组件
 	}
 }
-
