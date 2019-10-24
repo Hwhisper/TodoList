@@ -1,5 +1,7 @@
 # TodoList
 
+环境配置：Win10操作系统，python2.7, django1.11, react16.10, axios0.9.0, boorstrap4.3.1, reactstrap8.1.1, drf2.9.4，djangocorsheaders3.0.2
+
 功能列表：
 
 1：增加一个待办事项
